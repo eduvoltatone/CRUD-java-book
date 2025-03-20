@@ -8,7 +8,7 @@ Este repositório contém um sistema de CRUD (Create, Read, Update, Delete) para
 - Banco de Dados: h2
 - Frameworks/Bibliotecas: Spring Boot
 
-## 🛠 Funcionalidades
+## Funcionalidades
 
 - **Cadastrar** novos livros no sistema
 - **Listar** todos os livros cadastrados
